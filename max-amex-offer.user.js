@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name       max-amex-offer
 // @namespace  mao
-// @version    0.1.6
+// @version    0.1.8
 // @author     1dy
 // @license    CC BY-NC-ND 4.0
 // @icon       https://www.uscardforum.com/uploads/default/original/3X/2/0/20854a782c784b51b8d7cf43a4b8075bbe4b9664.png?v=12
