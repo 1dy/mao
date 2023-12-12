@@ -6,6 +6,11 @@
 // @license    CC BY-NC-ND 4.0
 // @icon       https://www.uscardforum.com/uploads/default/original/3X/2/0/20854a782c784b51b8d7cf43a4b8075bbe4b9664.png?v=12
 // @match      *://*.americanexpress.com/*
+// @connect    githubusercontent.com
+// @connect    jsdelivr.net
+// @connect    uscardforum.com
+// @grant      GM_addElement
+// @grant      GM_xmlhttpRequest
 // @grant      unsafeWindow
 // ==/UserScript==
 
